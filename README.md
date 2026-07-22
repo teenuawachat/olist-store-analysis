@@ -73,11 +73,11 @@ The analysis revealed several insights related to customer behavior, sales perfo
 
 ![Power BI Dashboard](images/olist_powerbi_dashboard_page1.png)
 
-![Power BI Analysis Page](images/olist_powerbi_dashboard_page2.png)
-![Power BI Analysis Page](images/olist_powerbi_dashboard_page3.png)
+![Power BI Dashboard](images/olist_powerbi_dashboard_page2.png)
+
+![Power BI Dashboard](images/olist_powerbi_dashboard_page3.png)
 
 </details>
-
 
 <details>
 <summary>View Tableau Dashboard Screenshots</summary>
@@ -85,29 +85,31 @@ The analysis revealed several insights related to customer behavior, sales perfo
 <br>
 
 ![Tableau Dashboard](images/olist_tableau_dashboard_page1.png)
+
 ![Tableau Dashboard](images/olist_tableau_dashboard_page2.png)
 
 </details>
-
-<details>
 
 ## 💻 SQL Analysis
 
 <details>
 <summary>View SQL Queries</summary>
+
 <br>
-  
-[📄 Olist SQL Analysis](sql/Olist_Sales_Analysis.sql)
+
+📄 [Olist SQL Analysis](sql/Olist_Sales_Analysis.sql)
 
 </details>
 
 ## 📈 Business Recommendations
+
 Based on the analysis, the following recommendations can help improve e-commerce performance:
+
 - Optimize delivery processes to reduce shipping delays and improve customer satisfaction.
 - Monitor delivery performance metrics regularly to identify logistics improvement areas.
 - Analyze customer purchasing patterns to improve marketing and sales strategies.
 - Encourage preferred payment methods while ensuring a smooth checkout experience.
-- Use customer feedback and review scores to identify opportunities for service improvement.
+- Use customer feedback and review scores to identify opportunities for service improvement.ement.
 
 
 
