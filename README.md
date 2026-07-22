@@ -62,7 +62,7 @@ The analysis revealed several insights related to customer behavior, sales perfo
 
 ## 📸 Dashboard Preview
 ### Excel Dashboard
-![Excel Dashboard](images/Excel Dashboard Filtered.png)
+![Excel Dashboard](images/olist_excel_dashboard.png)
 
 ## 📈 Business Recommendations
 Based on the analysis, the following recommendations can help improve e-commerce performance:
