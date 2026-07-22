@@ -95,7 +95,8 @@ The analysis revealed several insights related to customer behavior, sales perfo
 
 <details>
 <summary>View SQL Queries</summary>
-
+<br>
+  
 [📄 Olist SQL Analysis](sql/Olist_Sales_Analysis.sql)
 
 </details>
