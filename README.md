@@ -61,17 +61,33 @@ The analysis revealed several insights related to customer behavior, sales perfo
 - Delivery time analysis helped identify opportunities to improve logistics efficiency and customer experience.
 
 ## 📸 Dashboard Preview
+
 ### Excel Dashboard
+
 ![Excel Dashboard](images/olist_excel_dashboard.png)
 
-### Power BI Dashboard
-![Power BI Dashboard](images/olist_powerbi_dashboard_page1.png)
-![Power BI Dashboard](images/olist_powerbi_dashboard_page2.png)
-![Power BI Dashboard](images/olist_powerbi_dashboard_page3.png)
+<details>
+<summary>View Power BI Dashboard Screenshots</summary>
 
-### Tableau Dashboard
+<br>
+
+![Power BI Dashboard](images/olist_powerbi_dashboard_page1.png)
+
+![Power BI Analysis Page](images/olist_powerbi_dashboard_page2.png)
+![Power BI Analysis Page](images/olist_powerbi_dashboard_page3.png)
+
+</details>
+
+
+<details>
+<summary>View Tableau Dashboard Screenshots</summary>
+
+<br>
+
 ![Tableau Dashboard](images/olist_tableau_dashboard_page1.png)
 ![Tableau Dashboard](images/olist_tableau_dashboard_page2.png)
+
+</details>
 
 
 ## 📈 Business Recommendations
