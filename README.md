@@ -100,7 +100,6 @@ The analysis revealed several insights related to customer behavior, sales perfo
 
 </details>
 
-
 ## 📈 Business Recommendations
 Based on the analysis, the following recommendations can help improve e-commerce performance:
 - Optimize delivery processes to reduce shipping delays and improve customer satisfaction.
