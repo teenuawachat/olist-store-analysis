@@ -64,6 +64,16 @@ The analysis revealed several insights related to customer behavior, sales perfo
 ### Excel Dashboard
 ![Excel Dashboard](images/olist_excel_dashboard.png)
 
+### Power BI Dashboard
+![Power BI Dashboard](images/olist_powerbi_dashboard_page1.png)
+![Power BI Dashboard](images/olist_powerbi_dashboard_page2.png)
+![Power BI Dashboard](images/olist_powerbi_dashboard_page3.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](images/olist_tableau_dashboard_page1.png)
+![Tableau Dashboard](images/olist_tableau_dashboard_page2.png)
+
+
 ## 📈 Business Recommendations
 Based on the analysis, the following recommendations can help improve e-commerce performance:
 - Optimize delivery processes to reduce shipping delays and improve customer satisfaction.
