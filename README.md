@@ -90,11 +90,13 @@ The analysis revealed several insights related to customer behavior, sales perfo
 </details>
 
 <details>
-<summary>💻 View SQL Analysis</summary>
 
-📄 **SQL Script**
+## 💻 SQL Business Queries
 
-- [Olist SQL Analysis](sql/Olist_Sales_Analysis.sql)
+<details>
+<summary>Click to view SQL queries</summary>
+
+- 📄 [View Complete SQL Analysis](sql/Olist_Sales_Analysis.sql)
 
 </details>
 
