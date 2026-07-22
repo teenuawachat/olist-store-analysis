@@ -61,7 +61,8 @@ The analysis revealed several insights related to customer behavior, sales perfo
 - Delivery time analysis helped identify opportunities to improve logistics efficiency and customer experience.
 
 ## 📸 Dashboard Preview
-Dashboard screenshots will be added here to showcase the Excel, Power BI, and Tableau visualizations developed for this project.
+### Excel Dashboard
+![Excel Dashboard](images/Excel Dashboard Filtered.png)
 
 ## 📈 Business Recommendations
 Based on the analysis, the following recommendations can help improve e-commerce performance:
