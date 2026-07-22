@@ -89,6 +89,15 @@ The analysis revealed several insights related to customer behavior, sales perfo
 
 </details>
 
+<details>
+<summary>💻 View SQL Analysis</summary>
+
+📄 **SQL Script**
+
+- [Olist SQL Analysis](sql/Olist_Sales_Analysis.sql)
+
+</details>
+
 
 ## 📈 Business Recommendations
 Based on the analysis, the following recommendations can help improve e-commerce performance:
