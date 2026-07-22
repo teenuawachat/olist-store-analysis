@@ -20,7 +20,7 @@ Analysis was performed using the **Olist Brazilian E-Commerce Public Dataset**, 
 - Built relationships between multiple datasets.
 - Prepared structured data for analysis and dashboard development.
 
-## 📊 Business Questions Answered
+## 📊 Business Analysis
 - Weekday vs Weekend payment trends.
 - Customer satisfaction and payment method analysis.
 - Delivery performance for the Pet Shop category.
